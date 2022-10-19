@@ -77,8 +77,8 @@
   .todo-button.edit {
     background: linear-gradient(
       90deg,
-      rgb(1, 134, 83) 0%,
-      rgb(49, 238, 96) 100%
+      rgb(6, 224, 141) 0%,
+      rgb(0, 107, 27) 100%
     );
     padding: 16px 22px;
   }
@@ -97,8 +97,8 @@
     color: #fff;
     background: linear-gradient(
       90deg,
-      rgb(38, 146, 5) 0%,
-      rgb(9, 236, 161) 100%
+      rgb(56, 230, 4) 0%,
+      rgb(0, 122, 82) 100%
     );
   
     padding: 16px;
@@ -125,8 +125,8 @@
   .todo-row:nth-child(4n + 3) {
     background: linear-gradient(
       90deg,
-      rgb(64, 228, 31) 0%,
-      rgb(9, 252, 151) 100%
+      rgb(56, 230, 4) 0%,
+      rgb(0, 122, 82) 100%
     );
   }
   
